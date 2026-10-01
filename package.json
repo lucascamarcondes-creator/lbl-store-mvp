@@ -1,0 +1,12 @@
+{
+  "name": "lbl-store-mvp",
+  "version": "1.0.0",
+  "description": "MVP para LBL Store - Gestão de Catálogo e Pre-orders",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
