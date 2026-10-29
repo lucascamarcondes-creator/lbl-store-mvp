@@ -19,3 +19,6 @@ Certifique-se de ter o **Node.js** instalado em seu computador. No terminal ou p
 
 1. Clone este repositório:
   git clone https://github.com/lucascamarcondes-creator/lbl-store-mvp.git
+
+
+<!-- Auto-revisão do MVP realizada -->).
