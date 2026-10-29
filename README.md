@@ -19,4 +19,4 @@ Certifique-se de ter o **Node.js** instalado em seu computador. No terminal ou p
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/lucascamarcondes-creator/lbl-store-mvp.git](https://github.com/lucascamarcondes-creator/lbl-store-mvp.git)
+  git clone https://github.com/lucascamarcondes-creator/lbl-store-mvp.git
