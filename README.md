@@ -18,5 +18,4 @@ Sistema desenvolvido para automatizar e centralizar a gestão de inventário, ca
 Certifique-se de ter o **Node.js** instalado em seu computador. No terminal ou prompt de comando, execute os seguintes passos:
 
 1. Clone este repositório:
-   ```bash
   git clone https://github.com/lucascamarcondes-creator/lbl-store-mvp.git
